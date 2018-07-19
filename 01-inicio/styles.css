@@ -23,7 +23,7 @@ h2 {
 }
 
 .contenedor-flex {
-    
+    display: flex;
 }
 
 .elemento-flex {

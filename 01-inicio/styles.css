@@ -24,6 +24,9 @@ h2 {
 
 .contenedor-flex {
     display: flex;
+    border: 3px solid #000000;
+    /*Direcciones*/
+    flex-direction: row;
 }
 
 .elemento-flex {
